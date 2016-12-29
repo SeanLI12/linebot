@@ -77,7 +77,7 @@ bot.on('postback', function (event) {
           type: 'buttons',
           thumbnailImageUrl: 'https://sb-doc-cdn.iowiuhwer37asdan.net/Darts/Sport01.jpg',
           title: 'Burning Questions',
-          text: 'What About Phil Taylor? How Will He Fare?',
+          text: 'What About Phil sTaylor? Howw Will He Fare?',
           actions: [{
               type: 'postback',
               label: 'Round3 2.60',
